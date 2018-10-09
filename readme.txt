@@ -1,3 +1,4 @@
+--no-ff
 
 Creating a branch is quick & simple 
 
